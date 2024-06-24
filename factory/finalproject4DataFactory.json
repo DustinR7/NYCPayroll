@@ -1,0 +1,9 @@
+{
+	"name": "finalproject4DataFactory",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e499c32b-8027-4293-92d8-046bbabf3a11",
+		"tenantId": "1ca8bd94-3c97-4fc6-8955-bad266b43f0b"
+	}
+}
